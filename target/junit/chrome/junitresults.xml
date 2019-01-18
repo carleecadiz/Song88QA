@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Song 88: Dashboard Page" timestamp="2019-01-18T10:30:08" hostname="localhost" time="23.288" errors="0" tests="3" skipped="0" failures="0">
+  <testcase classname="Song 88: Dashboard Page" name="Should Login to Account" time="12.356">
+  </testcase>
+  <testcase classname="Song 88: Dashboard Page" name="Should Access Dashboard Page" time="5.516">
+  </testcase>
+  <testcase classname="Song 88: Dashboard Page" name="Should Check Dashboard Page Fields" time="5.411">
+  </testcase>
+ </testsuite>
+</testsuites>
